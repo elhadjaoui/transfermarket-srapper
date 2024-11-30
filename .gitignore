@@ -1,0 +1,13 @@
+.env
+# database.ini
+.DS_Store
+archived_work/
+.trunk
+__pycache__/
+*.log
+*.pyc
+database.ini
+*.csv
+# *.json
+# *.csv
+# /**/utils/*
